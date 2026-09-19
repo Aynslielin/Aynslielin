@@ -3,12 +3,16 @@
 I am a MSECE student at University of Washington.  
 Here are my portfolios and CV for your reference.
 
-### CV
+## CV
 [Click to download / Read my CV online](CV_Hsin_Wei_Lin.pdf)
-### Portfolio Document
+## Portfolio Document
 [Click to download / Read my portfolio online](Porfolio.pdf)
 
-###Project Index
+## Project Index
+### Autonomous Dining Service Robot
+### CNC Plotter Machine
+### AI Doorbell
+
 
 <!--
 **Aynslielin/Aynslielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
