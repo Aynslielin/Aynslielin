@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 My name is Hsin-Wei (Aynslie) Lin
+
+I am a MSECE student at University of Washington. Here are my portfolios and CV for your reference.
+
+### CV
+[Click to download / Read my CV online](./CV_Hsin-Wei_Lin.pdf)
+### Portfolio Document
+[Click to download / Read my portfolio online](./Portfolio.pdf)
+
+###Project Index
 
 <!--
 **Aynslielin/Aynslielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
