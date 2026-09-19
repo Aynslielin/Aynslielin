@@ -5,10 +5,10 @@ Here are my portfolios and CV for your reference.
 
 ## CV
 [Click to download / Read my CV online](CV_Hsin_Wei_Lin.pdf)
-## Portfolio Document
+## Portfolio
 [Click to download / Read my portfolio online](Porfolio.pdf)
 
-## Project Index
+## Project
 ### Autonomous Dining Service Robot
 ### Intelligence CNC Plotter Machine
 [Click to review the project](https://github.com/Aynslielin/Intelligent-CNC-Plotter-Machine)
