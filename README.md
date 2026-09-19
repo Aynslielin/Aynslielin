@@ -12,6 +12,8 @@ Here are my portfolios and CV for your reference.
 ### Autonomous Dining Service Robot
 ### Intelligence CNC Plotter Machine
 [Click to review the project](https://github.com/Aynslielin/Intelligent-CNC-Plotter-Machine)
+### Omnidirectional Wheel Robot Platform
+(Click to review to project)[https://github.com/Aynslielin/Omnidirectional-Mobile-Robot-Platform]
 ### AI Doorbell
 
 
