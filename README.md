@@ -10,7 +10,8 @@ Here are my portfolios and CV for your reference.
 
 ## Project Index
 ### Autonomous Dining Service Robot
-### CNC Plotter Machine
+### Intelligence CNC Plotter Machine
+[Click to review the project](https://github.com/Aynslielin/Intelligent-CNC-Plotter-Machine)
 ### AI Doorbell
 
 
