@@ -10,7 +10,7 @@ Here are my portfolios and CV for your reference.
 
 ## Research
 ### Autonomous Dining Service Robot
-[Click to review the project]()
+[Click to review the project](https://github.com/Aynslielin/Autonomous-Dining-Service-Robot)
 
 ## Project
 ### Intelligence CNC Plotter Machine
