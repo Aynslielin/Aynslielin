@@ -4,7 +4,7 @@ I am a MSECE student at University of Washington.
 Here are my portfolios and CV for your reference.
 
 ## CV
-[Click to download / Read my CV online][CV_Hsin_Wei_Lin.pdf](https://docs.google.com/document/d/1Pmaf_seehJGBE5-StYk2N9aV2fw0XVPZy3S7C02XbLs/edit?usp=sharing)
+[Click to download / Read my CV online](https://docs.google.com/document/d/1Pmaf_seehJGBE5-StYk2N9aV2fw0XVPZy3S7C02XbLs/edit?usp=sharing)
 ## Portfolio
 [Click to download / Read my portfolio online](Porfolio.pdf)
 
