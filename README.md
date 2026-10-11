@@ -8,11 +8,9 @@ Here are my portfolios and CV for your reference.
 ## Portfolio
 [Click to download / Read my portfolio online](Porfolio.pdf)
 
-## Relevant Experience
+## Relevant Projects
 ### Autonomous Dining Service Robot
 [Click to review the project](https://github.com/Aynslielin/Autonomous-Dining-Service-Robot)
-
-## Project
 ### Intelligence CNC Plotter Machine
 [Click to review the project](https://github.com/Aynslielin/Intelligent-CNC-Plotter-Machine)
 ### Omnidirectional Mobile Robot Platform
